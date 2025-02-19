@@ -1,28 +1,40 @@
-# ❄️ Eli  
+<h1 align="center">""𝐼𝑐ℎ 𝑏𝑖𝑛 𝑓𝑟𝑒𝑖, 𝑢𝑛𝑑 𝑑𝑒𝑠ℎ𝑎𝑙𝑏 𝑏𝑖𝑛 𝑖𝑐ℎ 𝑣𝑒𝑟𝑙𝑜𝑟𝑒𝑛""</h1>
 
-> Precision. Efficiency. Development.  
-
-Young developer specializing in **cyber attack tools**, **web development**, and **portfolio design**. My work is sharp, functional, and results-driven.  
-
----
-
-## 🛠️ Skills & Focus  
-- **Offensive Development** → Custom tools & scripts  
-- **Web Engineering** → Structured, responsive, and optimized solutions  
-- **Automation & Scripting** → Efficiency at scale  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neyth444/Neyth444/main/assets/banner.png" alt="Banner">
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eli&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli&layout=compact&theme=tokyonight)  
+##  About Me
+👤 **Eli**  
+Specialized in **cyber attack tools**, **web development**, and **portfolio design**.  
+
+
+🌐 **Website:** [kyomu.fr](https://kyomu.fr)  
+💬 **Discord:** `@feitann444`  
 
 ---
 
-## 📡 Contact  
-- **Discord:** `@feitann444`  
-- **Website:** [kyomu.fr](https://kyomu.fr)  
+## 📊 Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neyth444&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyth444&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
 
 ---
 
-> *Code is neither good nor bad. It simply works—or it doesn’t.*
+## 🏆 Badges & Contributions
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neyth444&theme=dracula" alt="GitHub Trophies">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neyth444&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+---
+
+## 📈 Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="Visitor Count">
+</p>
