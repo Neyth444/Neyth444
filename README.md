@@ -7,8 +7,9 @@
 ---
 
 ##  About Me
-👤 **Eli**  
+<p align="center" 👤 **Eli**>  
 Specialized in **cyber attack tools**, **web development**, and **portfolio design**.  
+</p>
 
 
 🌐 **Website:** [kyomu.fr](https://kyomu.fr)  
