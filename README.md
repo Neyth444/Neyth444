@@ -43,4 +43,5 @@
 <h2 align="center">📈 Visitor Counter</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="
+  <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="Count visitor">
+</p>
