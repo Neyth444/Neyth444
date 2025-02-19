@@ -1,4 +1,4 @@
-<h1 align="center">""𝐼𝑐ℎ 𝑏𝑖𝑛 𝑓𝑟𝑒𝑖, 𝑢𝑛𝑑 𝑑𝑒𝑠ℎ𝑎𝑙𝑏 𝑏𝑖𝑛 𝑖𝑐ℎ 𝑣𝑒𝑟𝑙𝑜𝑟𝑒𝑛""</h1>
+<h1 align="center">"𝐼𝑐ℎ 𝑏𝑖𝑛 𝑓𝑟𝑒𝑖, 𝑢𝑛𝑑 𝑑𝑒𝑠ℎ𝑎𝑙𝑏 𝑏𝑖𝑛 𝑖𝑐ℎ 𝑣𝑒𝑟𝑙𝑜𝑟𝑒𝑛"</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Neyth444/Neyth444/main/assets/Shiffer.webp" alt="Banner">
@@ -6,19 +6,22 @@
 
 ---
 
-##  About Me
-<p align="center">👤 **Eli**
-</p>  
-<p align="cente"> Specialized in **cyber attack tools**, **web development**, and **portfolio design**.  
+<h2 align="center">🔥 About Me</h2>
+
+<p align="center">
+  👤 <strong>Eli</strong>  
+  <br>Specialized in <strong>cyber attack tools</strong>, <strong>web development</strong>, and <strong>portfolio design</strong>.  
 </p>
 
-
-🌐 **Website:** [kyomu.fr](https://kyomu.fr)  
-💬 **Discord:** `@feitann444`  
+<p align="center">
+  🌐 <strong>Website:</strong> <a href="https://kyomu.fr">kyomu.fr</a>  
+  <br>💬 <strong>Discord:</strong> <code>@feitann444</code>  
+</p>
 
 ---
 
-## 📊 Stats & Activity
+<h2 align="center">📊 Stats & Activity</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neyth444&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
@@ -27,7 +30,8 @@
 
 ---
 
-## 🏆 Badges & Contributions
+<h2 align="center">🏆 Badges & Contributions</h2>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Neyth444&theme=dracula" alt="GitHub Trophies">
   <br><br>
@@ -36,7 +40,7 @@
 
 ---
 
-## 📈 Visitor Counter
+<h2 align="center">📈 Visitor Counter</h2>
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="Visitor Count">
-</p>
+  <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="
