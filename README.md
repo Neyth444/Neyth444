@@ -1,7 +1,7 @@
 <h1 align="center">""𝐼𝑐ℎ 𝑏𝑖𝑛 𝑓𝑟𝑒𝑖, 𝑢𝑛𝑑 𝑑𝑒𝑠ℎ𝑎𝑙𝑏 𝑏𝑖𝑛 𝑖𝑐ℎ 𝑣𝑒𝑟𝑙𝑜𝑟𝑒𝑛""</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neyth444/Neyth444/main/assets/banner.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/Neyth444/Neyth444/main/assets/Shiffer.webp alt="Banner">
 </p>
 
 ---
