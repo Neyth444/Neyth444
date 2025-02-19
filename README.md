@@ -7,8 +7,9 @@
 ---
 
 ##  About Me
-<p align="center" 👤 **Eli**>  
-Specialized in **cyber attack tools**, **web development**, and **portfolio design**.  
+<p align="center">👤 **Eli**
+</p>  
+<p align="cente"> Specialized in **cyber attack tools**, **web development**, and **portfolio design**.  
 </p>
 
 
