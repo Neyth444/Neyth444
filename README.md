@@ -1,7 +1,7 @@
 <h1 align="center">"𝐼𝑐ℎ 𝑏𝑖𝑛 𝑓𝑟𝑒𝑖, 𝑢𝑛𝑑 𝑑𝑒𝑠ℎ𝑎𝑙𝑏 𝑏𝑖𝑛 𝑖𝑐ℎ 𝑣𝑒𝑟𝑙𝑜𝑟𝑒𝑛"</h1>
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-1015.gif" alt="Banner">
+  <img src="https://github.com/Neyth444/Neyth444/edit/main/assets/omori.gif" alt="Banner">
 </p>
 
 ---
