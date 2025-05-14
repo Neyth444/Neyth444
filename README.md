@@ -10,7 +10,7 @@
 
 <p align="center">
   👤 <strong>Eli</strong>  
-  <br>Specialized in <strong>cyber attack tools</strong>, <strong>web development</strong>, and <strong>portfolio design</strong>.  
+  <br>Specialized in <strong>cyber tools</strong>, <strong>web development</strong>, and <strong>portfolio design</strong>.  
 </p>
 
 <p align="center">
